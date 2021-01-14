@@ -1,0 +1,52 @@
+<html>
+
+<head>
+
+<style>
+h1 {
+	color:green;
+  font-family: verdana;
+  font-size: 300%;
+
+}
+p  {
+	color: purple;
+  font-family: courier;
+  font-size: 160%;
+}
+</style>
+
+</head>
+
+<body style="background-color:powderblue;">
+
+<center>
+<h1>Common things in Boys and Girls</h1>
+<img src="sdg 5.jpg">
+</center>
+
+<p>
+The SDG goals known as the Sustainable Development Goals were created by the U.N (United Nations) to improve the life of the everyone and make a better planet. There are 17 goals that the U.N has created and declared as the SDG goals which they aim to finish by 2030. Out of all the 17 goals, on this webpage we will just be talking about the 5th one which is Gender Equality and this is a very important SDG which is to abolish discrimination between boys and girls, but in on this page I will just be sharing the common things in boys and girls.
+</p>
+
+<p>
+Boys and girls both like to read books infact who doesn't its one trait that is very common in many people wheather they are young or small everyone likes books, and let's not forget that books are our best friends and teachers too. Video games can be another thing common in boys and girls since everyone loves to take a break in a while and rest with their friends or by themselves just playing for sometime. This can also be applied for watching television as that is also a break or you can watch it with your family and it makes a really good family time. Even sports like basketball, soccer, tennis, badminton, running and swimming and just other outdoor games are also things that happen in both races. But these are just a few things common, imgaine if everything boys could do, even girls would be allowed to do. Wouldn't that make the much more advanced and better than right now? In my opinion it will and that is why this SDG has been made, to empower women and to keep all genders equal.
+</p>
+
+<center>
+<img src="books.jpeg" id="image">
+<button onclick="document.getElementById('image').src='books.jpeg'">
+Books</button>
+<button onclick="document.getElementById('image').src='badminton.jpeg'">
+Sports</button>
+<button onclick="document.getElementById('image').src='videogames.jpg'">
+Video Games</button>
+</center>
+
+<p>
+I believe that this is defineatly an important SDG goal which will affect us all darastically in the future but in a positive way and it will even help us build a society living in peace and harmony.
+</p>
+
+</body>
+
+</html>
